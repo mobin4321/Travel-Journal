@@ -95,7 +95,7 @@ body {
   content: "";
   position: absolute;
   height: 1px;
-  opacity: v0.2;
+  opacity: 0.2;
   width: 80%;
   align-self: center;
   bottom: 0;
